@@ -10,7 +10,7 @@ Nevertheless a good turnout of about 15 people, all of whom had varied interesti
 
 Due to the good feeling that arose from this first event, it was decided to hold another.  At the Betjeman event, one enthusiastic participant Kum Nathan said that he had an algo he'd worked on that he was prepared to talk about in a future event.  That was enough to schedule the next event.
 
-## Triangular Arbitrage
+## Meetup 1: Triangular Arbitrage
 
 * The code for Richard Hickling's talk is [here](/meetup-1-triangular-arb/talk-1-profitview/)
 * Resources for Kum Nathan's presentation are [here](/meetup-1-triangular-arb/talk-2-tri-arb/)
