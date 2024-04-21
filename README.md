@@ -12,5 +12,5 @@ Due to the good feeling that arose from this first event, it was decided to hold
 
 ## Meetup 1: Triangular Arbitrage
 
-* The code for Richard Hickling's talk is [here](/meetup-1-triangular-arb/talk-1-profitview/)
+* The code for Richard Hickling's talk is [here](/meetup-1-triangular-arb/talk-1-profitview/).  The talk and podcast he mentioned are [How we set a technical direction that lasts](https://youtu.be/K24SA57rsr4) and [Acquired - RenTec](https://youtu.be/2KjW4BqNFy0?si=j_l8uIyWrYTCoZwT)
 * Resources for Kum Nathan's presentation are [here](/meetup-1-triangular-arb/talk-2-tri-arb/)
