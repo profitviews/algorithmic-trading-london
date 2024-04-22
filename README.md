@@ -1,3 +1,9 @@
+
+![](/assets/images/algorithmic-trading-london.png)
+
+
+
+
 # Algorithmic Trading, London
 
 Code and docs for the [Algorithmic Trading, London](https://www.meetup.com/algorithmic-trading-london/) meetups
