@@ -17,7 +17,7 @@ For how it all began - see [here](/Beginnings.md)
 
 * The code is [here](/meetup-1-triangular-arb/talk-1-profitview/).  
 * The North Star talk by Andrew McVeigh is [How we set a technical direction that lasts](https://youtu.be/K24SA57rsr4)
-* The podcast he mentioned are on Rentec ist [Acquired - RenTec](https://youtu.be/2KjW4BqNFy0?si=j_l8uIyWrYTCoZwT).  
+* The podcast he mentioned on Rentec is [Acquired - RenTec](https://youtu.be/2KjW4BqNFy0?si=j_l8uIyWrYTCoZwT).  
 * The "democratising Rentec" tract in it is [here](https://youtu.be/2KjW4BqNFy0?t=10806). 
 * Demonstrating `sqlite` in ProfitView he referred to his blog [Algo Trading with Google Sheets](https://profitview.net/blog/algo-trading-with-google-sheets).  It's Github is [here](https://github.com/profitviews/botsheet).
 
