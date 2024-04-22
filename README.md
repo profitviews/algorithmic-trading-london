@@ -5,7 +5,7 @@
 
 
 # Algorithmic Trading, London
-<a href="https://profitview.net" target="_blank"><img align="right" width="60" height="60" src="/assets/images/profit-view-logo-small.png"/></a> 
+<a href="https://github.com/profitviews/profitviews" target="_blank"><img align="right" width="60" height="60" src="/assets/images/profit-view-logo-small.png"/></a> 
 
 Code and docs for the [Algorithmic Trading, London](https://www.meetup.com/algorithmic-trading-london/) meetups
 
