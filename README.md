@@ -15,7 +15,8 @@ For how it all began - see [here](/Beginnings.md)
 
 ### Richard Hickling's talk:
 
-* The code is [here](/meetup-1-triangular-arb/talk-1-profitview/).  
+See [Talk 1 ProfitView](/meetup-1-triangular-arb)
+* The code is [here](/meetup-1-triangular-arb/talk-1-profitview/src).  
 * Demonstrating `sqlite` in ProfitView he referred to his blog [Algo Trading with Google Sheets](https://profitview.net/blog/algo-trading-with-google-sheets).  It's Github is [here](https://github.com/profitviews/botsheet).
 
 ### Kum Nathan's Presentation
